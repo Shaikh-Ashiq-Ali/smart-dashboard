@@ -57,3 +57,22 @@ useState	                Track current page
 slice()	                    Extract subset of list per page
 Buttons logic	            Enable/disable Prev/Next navigation
 Bootstrap styling	        Clean & responsive list UI
+
+Use useCallback when:
+You're optimizing performance 🔧
+Passing functions to child components 🧒
+Using React.memo or useEffect with a function dependency
+
+
+
+Hooks Covered
+useState
+useEffect
+useContext
+useRef
+useReducer
+Custom Hook
+
+
+useMemo
+useCallback

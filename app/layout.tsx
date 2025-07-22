@@ -27,6 +27,7 @@ export default function RootLayout({
             <Link href="tips">Tips</Link>
             <Link href="lazy">Lazy</Link>
             <Link href="pagination">Pagination</Link>
+            <Link href="performance">Performance</Link>
           </Container>
         </Navbar>
         <ThemeProvider>{children}</ThemeProvider>
